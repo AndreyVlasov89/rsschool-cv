@@ -44,7 +44,8 @@ installation testing, interruption testing, reconnect testing, writing checklist
   - CREATE, INSERT INTO, SELECT, DISTINCT, DELETE, ORDER BY, LEFT/RIGHT/FULL JOIN, UNION
 - CHARLES, FIDLER: 
   - proxy setup, certificate installation, traffic interception and spoofing
-- JMETER: Set loadable IP, number of users, load time
+- JMETER: 
+  - Set loadable IP, number of users, load time
 
 ## Code example
 
