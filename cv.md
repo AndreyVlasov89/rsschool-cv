@@ -37,7 +37,7 @@ installation testing, interruption testing, reconnect testing, writing checklist
 - TERMINAL: 
   - mkdir, pwd, cd, ls -la, touch, vim, rm, git status, git add :, git commit -m, git push, git pull, git branch, git checkout
 - DEVTOOLS: 
-  - Elements, console, sources, network, application, security
+  - elements, console, sources, network, application, security
 - POSTMAN: 
   - sending requests, creating an environment, exporting collections, writing basic tests, working with snippets
 - SQL: 
@@ -45,7 +45,7 @@ installation testing, interruption testing, reconnect testing, writing checklist
 - CHARLES, FIDLER: 
   - proxy setup, certificate installation, traffic interception and spoofing
 - JMETER: 
-  - Set loadable IP, number of users, load time
+  - set loadable IP, number of users, load time
 
 ## Code example
 
