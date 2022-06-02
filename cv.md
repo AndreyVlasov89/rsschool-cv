@@ -13,7 +13,7 @@ English: A2-B1
 
 Motivated and stress-resistant specialist with practical experience in manual testing of web and mobile applications. 
 At the moment I have completed software testing courses by Vadim Ksendzov and I am looking for a job as a software tester. 
-Also, I am currently starting to learn JavaScript, as I plan to move into automation in the future.
+Also, I am currently starting to learn JavaScript, as I plan to move into automation in the future
 
 
 ## Expirience
