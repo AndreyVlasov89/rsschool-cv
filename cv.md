@@ -36,7 +36,6 @@
 
     + **CHARLES, FIDLER**: Proxy setup, certificate installation, traffic interception and spoofing
 
-    + **JMETER**: Set loadable IP, number of users, load time
 
 
 ### Sample code ###
