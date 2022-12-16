@@ -28,7 +28,7 @@ p {
 
 @font-face {
    font-family: Chivo-Mono;
-   src: url(/assent/fonts/Chivo_Mono/ChivoMono-VariableFont_wght.ttf);
+   src: url(assent/fonts/Chivo_Mono/ChivoMono-VariableFont_wght.ttf);
 }
 
 * {
