@@ -51,4 +51,4 @@ North Caucasian Federal University, Stavropol
 Construction, Industrial and Civil Engineering (ACS)
 
 ### English language ###
-B1
+А2 - Elementary
